@@ -1,0 +1,14 @@
+{
+  "_comment": "Raw chat answer -> the real Instagram handle. ONLY for typos no rule can repair: a missing or doubled letter, a word the lead invented. Case, spaces, dots-vs-underscores and a dropped _tm are all handled by candidates() in profiles.py and must NOT be listed here. Found by searching Instagram by hand -- Meta has no username-search endpoint, so a person is the only resolver for these. Keys match the answer as it sits in «Заявки», loosely (case and extra spaces are ignored).",
+
+  "@Bmwshoptm": "bmw.shop.tm",
+  "@blackdesignstudio": "black.designstudio_tm",
+  "@serdarovnaaa_": "serdarovnaaaa_",
+  "@owadanexpress": "owadanexpresss",
+  "@detskie_veshi_yasmin": "detskie_veshi_yasmin_tm",
+  "@Balkan sowgat": "balkan_sowgat",
+  "@Nara a 690": "naraa690",
+  "@Lunalikaya himiya house": "lunalikaya_himiya_house",
+  "@Nagysly dunyam": "nagysly_dunyam",
+  "@ramsey _kip_univermag_tm": "ramsey_kip_univermag_tm"
+}

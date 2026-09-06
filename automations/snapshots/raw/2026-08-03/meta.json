@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "spend": "0",
+      "actions": [
+        {
+          "action_type": "landing_page_view",
+          "value": "1"
+        },
+        {
+          "action_type": "omni_landing_page_view",
+          "value": "1"
+        }
+      ],
+      "date_start": "2026-07-28",
+      "date_stop": "2026-07-28"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "MAZDZD",
+      "after": "MAZDZD"
+    }
+  }
+}

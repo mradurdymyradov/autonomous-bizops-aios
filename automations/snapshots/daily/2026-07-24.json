@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-24",
+  "captured_at": "2026-08-02T22:23:42Z",
+  "final": true,
+  "sources_ok": [
+    "cf",
+    "crm",
+    "ga4",
+    "ig",
+    "meta"
+  ],
+  "sources_failed": {},
+  "meta": {
+    "spend_usd": 6.99,
+    "impressions": 5454,
+    "reach": 3948,
+    "clicks": 177,
+    "link_clicks": 97,
+    "landing_page_views": 48,
+    "meta_leads": 21,
+    "cpc": 0.039492,
+    "ctr": 3.245325
+  },
+  "ga4": {
+    "sessions": 150,
+    "engaged_sessions": 58,
+    "key_events": 0,
+    "generate_lead": 22,
+    "paid_sessions": 121,
+    "key_events_configured": false
+  },
+  "crm": {
+    "leads_raw_rows": 22,
+    "leads_real": 20,
+    "by_creative": {
+      "video": 16,
+      "c.flat": 2,
+      "link_in_bio": 2
+    },
+    "by_business": {
+      "Студио интерьерной дизайна": 1,
+      "Услуги": 8,
+      "Салон красоты": 3,
+      "Магазин": 4,
+      "Я продаю платье готовое и шью на заказ": 1,
+      "Кафе / ресторан": 2,
+      "Ботаника магазин плюс мини кафешка": 1
+    },
+    "by_language": {
+      "Русский": 13,
+      "Туркменский": 7
+    },
+    "duplicate_phones": 2,
+    "no_phone": 0
+  },
+  "ig": {
+    "account_reach": 2167,
+    "followers": 53,
+    "posts_live": 3
+  },
+  "cf": {
+    "tz": "UTC",
+    "origin_5xx": 3,
+    "page_views_bot_inflated": 861,
+    "function_invocations": 333,
+    "function_errors": 0
+  },
+  "money": {
+    "spend_usd": 6.99,
+    "revenue_usd": 0
+  },
+  "funnel": {
+    "impressions": 5454,
+    "link_clicks": 97,
+    "ga4_sessions": 150,
+    "generate_lead": 22,
+    "leads_real": 20
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "totals": {
+    "dims": [
+      "date"
+    ],
+    "metrics": [
+      "sessions",
+      "engagedSessions",
+      "keyEvents"
+    ],
+    "rows": [
+      {
+        "keys": [
+          "20260803"
+        ],
+        "vals": [
+          "6",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260806"
+        ],
+        "vals": [
+          "2",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260808"
+        ],
+        "vals": [
+          "3",
+          "0",
+          "0"
+        ]
+      }
+    ],
+    "totals": {},
+    "row_count": 3,
+    "records": [
+      {
+        "date": "20260803",
+        "sessions": "6",
+        "engagedSessions": "2",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260806",
+        "sessions": "2",
+        "engagedSessions": "0",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260808",
+        "sessions": "3",
+        "engagedSessions": "0",
+        "keyEvents": "0"
+      }
+    ]
+  },
+  "events": {
+    "dims": [
+      "date",
+      "eventName"
+    ],
+    "metrics": [
+      "eventCount"
+    ],
+    "rows": [
+      {
+        "keys": [
+          "20260803",
+          "page_view"
+        ],
+        "vals": [
+          "6"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "session_start"
+        ],
+        "vals": [
+          "6"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "first_visit"
+        ],
+        "vals": [
+          "5"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "user_engagement"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "form_start"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "generate_lead"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "scroll"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260806",
+          "first_visit"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260806",
+          "page_view"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260806",
+          "session_start"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260808",
+          "page_view"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260808",
+          "session_start"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260808",
+          "first_visit"
+        ],
+        "vals": [
+          "2"
+        ]
+      }
+    ],
+    "totals": {},
+    "row_count": 13,
+    "records": [
+      {
+        "date": "20260803",
+        "eventName": "page_view",
+        "eventCount": "6"
+      },
+      {
+        "date": "20260803",
+        "eventName": "session_start",
+        "eventCount": "6"
+      },
+      {
+        "date": "20260803",
+        "eventName": "first_visit",
+        "eventCount": "5"
+      },
+      {
+        "date": "20260803",
+        "eventName": "user_engagement",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260803",
+        "eventName": "form_start",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260803",
+        "eventName": "generate_lead",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260803",
+        "eventName": "scroll",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260806",
+        "eventName": "first_visit",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260806",
+        "eventName": "page_view",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260806",
+        "eventName": "session_start",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260808",
+        "eventName": "page_view",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260808",
+        "eventName": "session_start",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260808",
+        "eventName": "first_visit",
+        "eventCount": "2"
+      }
+    ]
+  },
+  "channels": {
+    "dims": [
+      "date",
+      "sessionDefaultChannelGroup"
+    ],
+    "metrics": [
+      "sessions"
+    ],
+    "rows": [
+      {
+        "keys": [
+          "20260803",
+          "Direct"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "Organic Social"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260806",
+          "Direct"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260808",
+          "Direct"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260808",
+          "Organic Social"
+        ],
+        "vals": [
+          "1"
+        ]
+      }
+    ],
+    "totals": {},
+    "row_count": 5,
+    "records": [
+      {
+        "date": "20260803",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "4"
+      },
+      {
+        "date": "20260803",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "2"
+      },
+      {
+        "date": "20260806",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "2"
+      },
+      {
+        "date": "20260808",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "2"
+      },
+      {
+        "date": "20260808",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dashboard",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8787", "--directory", "automations/dashboard"],
+      "port": 8787
+    },
+    {
+      "name": "himiya",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8788", "--directory", "D:/ai projects/clients/lunalikaya_himiya_house/site"],
+      "port": 8788
+    },
+    {
+      "name": "ng",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8789", "--directory", "D:/ai projects/clients/ng_makeup_stylist/site"],
+      "port": 8789
+    },
+    {
+      "name": "sokl",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8790", "--directory", "D:/ai projects/clients/sokl_event_tm/site"],
+      "port": 8790
+    },
+    {
+      "name": "bazar",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8791", "--directory", "D:/ai projects/clients/bazar_marketing_tm/site"],
+      "port": 8791
+    }
+  ]
+}

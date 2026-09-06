@@ -1,0 +1,888 @@
+{
+  "totals": {
+    "dims": [
+      "date"
+    ],
+    "metrics": [
+      "sessions",
+      "engagedSessions",
+      "keyEvents"
+    ],
+    "rows": [
+      {
+        "keys": [
+          "20260728"
+        ],
+        "vals": [
+          "4",
+          "1",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260729"
+        ],
+        "vals": [
+          "7",
+          "1",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260730"
+        ],
+        "vals": [
+          "6",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260731"
+        ],
+        "vals": [
+          "4",
+          "1",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260801"
+        ],
+        "vals": [
+          "3",
+          "1",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260802"
+        ],
+        "vals": [
+          "3",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "keys": [
+          "20260803"
+        ],
+        "vals": [
+          "4",
+          "0",
+          "0"
+        ]
+      }
+    ],
+    "totals": {},
+    "row_count": 7,
+    "records": [
+      {
+        "date": "20260728",
+        "sessions": "4",
+        "engagedSessions": "1",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260729",
+        "sessions": "7",
+        "engagedSessions": "1",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260730",
+        "sessions": "6",
+        "engagedSessions": "2",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260731",
+        "sessions": "4",
+        "engagedSessions": "1",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260801",
+        "sessions": "3",
+        "engagedSessions": "1",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260802",
+        "sessions": "3",
+        "engagedSessions": "2",
+        "keyEvents": "0"
+      },
+      {
+        "date": "20260803",
+        "sessions": "4",
+        "engagedSessions": "0",
+        "keyEvents": "0"
+      }
+    ]
+  },
+  "events": {
+    "dims": [
+      "date",
+      "eventName"
+    ],
+    "metrics": [
+      "eventCount"
+    ],
+    "rows": [
+      {
+        "keys": [
+          "20260728",
+          "page_view"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260728",
+          "session_start"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260728",
+          "first_visit"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260728",
+          "user_engagement"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260728",
+          "scroll"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260729",
+          "page_view"
+        ],
+        "vals": [
+          "7"
+        ]
+      },
+      {
+        "keys": [
+          "20260729",
+          "session_start"
+        ],
+        "vals": [
+          "7"
+        ]
+      },
+      {
+        "keys": [
+          "20260729",
+          "first_visit"
+        ],
+        "vals": [
+          "6"
+        ]
+      },
+      {
+        "keys": [
+          "20260729",
+          "scroll"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "page_view"
+        ],
+        "vals": [
+          "7"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "session_start"
+        ],
+        "vals": [
+          "6"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "first_visit"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "scroll"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "user_engagement"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "page_view"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "session_start"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "user_engagement"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "first_visit"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "scroll"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "page_view"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "session_start"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "first_visit"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "form_start"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "generate_lead"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "scroll"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260802",
+          "page_view"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260802",
+          "session_start"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260802",
+          "user_engagement"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260802",
+          "first_visit"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "page_view"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "session_start"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "first_visit"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "form_start"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "user_engagement"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "generate_lead"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "scroll"
+        ],
+        "vals": [
+          "1"
+        ]
+      }
+    ],
+    "totals": {},
+    "row_count": 36,
+    "records": [
+      {
+        "date": "20260728",
+        "eventName": "page_view",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260728",
+        "eventName": "session_start",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260728",
+        "eventName": "first_visit",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260728",
+        "eventName": "user_engagement",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260728",
+        "eventName": "scroll",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260729",
+        "eventName": "page_view",
+        "eventCount": "7"
+      },
+      {
+        "date": "20260729",
+        "eventName": "session_start",
+        "eventCount": "7"
+      },
+      {
+        "date": "20260729",
+        "eventName": "first_visit",
+        "eventCount": "6"
+      },
+      {
+        "date": "20260729",
+        "eventName": "scroll",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260730",
+        "eventName": "page_view",
+        "eventCount": "7"
+      },
+      {
+        "date": "20260730",
+        "eventName": "session_start",
+        "eventCount": "6"
+      },
+      {
+        "date": "20260730",
+        "eventName": "first_visit",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260730",
+        "eventName": "scroll",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260730",
+        "eventName": "user_engagement",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260731",
+        "eventName": "page_view",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260731",
+        "eventName": "session_start",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260731",
+        "eventName": "user_engagement",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260731",
+        "eventName": "first_visit",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260731",
+        "eventName": "scroll",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260801",
+        "eventName": "page_view",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260801",
+        "eventName": "session_start",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260801",
+        "eventName": "first_visit",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260801",
+        "eventName": "form_start",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260801",
+        "eventName": "generate_lead",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260801",
+        "eventName": "scroll",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260802",
+        "eventName": "page_view",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260802",
+        "eventName": "session_start",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260802",
+        "eventName": "user_engagement",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260802",
+        "eventName": "first_visit",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260803",
+        "eventName": "page_view",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260803",
+        "eventName": "session_start",
+        "eventCount": "4"
+      },
+      {
+        "date": "20260803",
+        "eventName": "first_visit",
+        "eventCount": "3"
+      },
+      {
+        "date": "20260803",
+        "eventName": "form_start",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260803",
+        "eventName": "user_engagement",
+        "eventCount": "2"
+      },
+      {
+        "date": "20260803",
+        "eventName": "generate_lead",
+        "eventCount": "1"
+      },
+      {
+        "date": "20260803",
+        "eventName": "scroll",
+        "eventCount": "1"
+      }
+    ]
+  },
+  "channels": {
+    "dims": [
+      "date",
+      "sessionDefaultChannelGroup"
+    ],
+    "metrics": [
+      "sessions"
+    ],
+    "rows": [
+      {
+        "keys": [
+          "20260728",
+          "Direct"
+        ],
+        "vals": [
+          "3"
+        ]
+      },
+      {
+        "keys": [
+          "20260728",
+          "Organic Social"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260729",
+          "Direct"
+        ],
+        "vals": [
+          "6"
+        ]
+      },
+      {
+        "keys": [
+          "20260729",
+          "Organic Social"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "Direct"
+        ],
+        "vals": [
+          "4"
+        ]
+      },
+      {
+        "keys": [
+          "20260730",
+          "Organic Social"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "Organic Social"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "Direct"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260731",
+          "Organic Search"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "Direct"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260801",
+          "Organic Social"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260802",
+          "Organic Search"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260802",
+          "Direct"
+        ],
+        "vals": [
+          "1"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "Direct"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "Organic Social"
+        ],
+        "vals": [
+          "2"
+        ]
+      },
+      {
+        "keys": [
+          "20260803",
+          "Unassigned"
+        ],
+        "vals": [
+          "2"
+        ]
+      }
+    ],
+    "totals": {},
+    "row_count": 16,
+    "records": [
+      {
+        "date": "20260728",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "3"
+      },
+      {
+        "date": "20260728",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "1"
+      },
+      {
+        "date": "20260729",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "6"
+      },
+      {
+        "date": "20260729",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "1"
+      },
+      {
+        "date": "20260730",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "4"
+      },
+      {
+        "date": "20260730",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "2"
+      },
+      {
+        "date": "20260731",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "2"
+      },
+      {
+        "date": "20260731",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "1"
+      },
+      {
+        "date": "20260731",
+        "sessionDefaultChannelGroup": "Organic Search",
+        "sessions": "1"
+      },
+      {
+        "date": "20260801",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "2"
+      },
+      {
+        "date": "20260801",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "1"
+      },
+      {
+        "date": "20260802",
+        "sessionDefaultChannelGroup": "Organic Search",
+        "sessions": "2"
+      },
+      {
+        "date": "20260802",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "1"
+      },
+      {
+        "date": "20260803",
+        "sessionDefaultChannelGroup": "Direct",
+        "sessions": "2"
+      },
+      {
+        "date": "20260803",
+        "sessionDefaultChannelGroup": "Organic Social",
+        "sessions": "2"
+      },
+      {
+        "date": "20260803",
+        "sessionDefaultChannelGroup": "Unassigned",
+        "sessions": "2"
+      }
+    ]
+  }
+}

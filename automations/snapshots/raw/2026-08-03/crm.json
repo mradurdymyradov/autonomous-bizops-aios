@@ -1,0 +1,628 @@
+{
+  "window": "last 7 days",
+  "sheet": "19v4oqQ-l2-aibrUCZ_t9960CP6DSPzPUN-X6xvikEIA",
+  "tabs": {
+    "leads": "Заявки",
+    "calls": "Звонки",
+    "chat": "Чат-лог",
+    "profiles": "Профили",
+    "notes": "Заметки"
+  },
+  "hidden_test_rows": 0,
+  "count": 5,
+  "summary": {
+    "leads_real": 4,
+    "rows": 5,
+    "duplicate_phones": 1,
+    "tests_hidden": 0,
+    "no_phone": 0,
+    "by_creative": {
+      "video": 4
+    }
+  },
+  "leads": [
+    {
+      "lead_id": "L1785157707387",
+      "ts": "2026-07-27T18:08:29",
+      "phone": "+993 63 79 92 44",
+      "phone_digits": "99363799244",
+      "source": "landing",
+      "variant": "hero",
+      "page": "https://voronkatm.com/?utm_source=ig&utm_medium=paid&utm_campaign=test01&utm_content=%7B%7Bad.video%7D%7D&utm_id=120249782138050338&utm_term=120249782138060338&fbclid=PAZXh0bgNhZW0BMABhZGlkAas2i8nfK-JzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacxX3zxDlxrYyDNhZVW0y8yC0C7ZmuOmHhxFRulpwaxouFvwA9eeWyR8i-yqQ_aem_9xP6i4Vkr5jmUsjrsadSZg",
+      "utm": {
+        "source": "ig",
+        "medium": "paid",
+        "campaign": "test01",
+        "content": "{{ad.video}}",
+        "id": "120249782138050338",
+        "creative": "video"
+      },
+      "chat": {
+        "language": "Туркменский",
+        "business": "Услуги"
+      },
+      "chat_raw": [
+        {
+          "ts": "2026-07-27T18:08:37",
+          "question": "На каком языке вам удобнее разговаривать?",
+          "answer": "Туркменский"
+        },
+        {
+          "ts": "2026-07-27T18:09:27",
+          "question": "Какой у вас бизнес?",
+          "answer": "Услуги"
+        }
+      ],
+      "calls": [
+        {
+          "ts": "2026-07-27T18:54:44.100000+05:00",
+          "event": "исходящий",
+          "outcome": "",
+          "comment": "",
+          "minutes_to_call": null,
+          "duration": 39
+        }
+      ],
+      "profile": {},
+      "note": {
+        "n": "58",
+        "category": "не понял",
+        "objections": [
+          "не понял оффер"
+        ],
+        "follow_up": true,
+        "text": "«Я вообще не понял что это, просто в непонятке оставил номер»",
+        "original": "\"Я вообще не понял что это, просто в непонятке оставил номер\""
+      },
+      "is_test": false,
+      "is_duplicate_phone": false,
+      "reached": true,
+      "minutes_to_call": 46,
+      "nudged": false,
+      "outcome": "",
+      "call_comment": "",
+      "call_stats": {
+        "label": "L58",
+        "minutes_to_call": 46,
+        "outgoing": 1,
+        "reached": true,
+        "conversations": 1,
+        "talk_total": 39,
+        "talk_longest": 39,
+        "called_back": false,
+        "missed_from_them": 0
+      }
+    },
+    {
+      "lead_id": "L1785163143713",
+      "ts": "2026-07-27T19:39:05",
+      "phone": "+993 65 70 42 15",
+      "phone_digits": "99365704215",
+      "source": "landing",
+      "variant": "hero",
+      "page": "https://voronkatm.com/?utm_source=ig&utm_medium=paid&utm_campaign=test01&utm_content=%7B%7Bad.video%7D%7D&utm_id=120249782138050338&utm_term=120249782138060338&fbclid=PAcGRvZgJmZGlkFlC1kfCNwlO09yCgcjaI_Xqt6WikwOdleHRuA2FlbQEwAGFkaWQBqzaLyd8r4nNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpwJws1V8cbBDnK5eBENsgLQh7JDzIG9dCSw8zhkD9YShOJ6Qa21ZInGAH-Dr_aem_W_laX2aEkvdiYdWp7xLvHQ",
+      "utm": {
+        "source": "ig",
+        "medium": "paid",
+        "campaign": "test01",
+        "content": "{{ad.video}}",
+        "id": "120249782138050338",
+        "creative": "video"
+      },
+      "chat": {
+        "language": "Русский",
+        "business": "Магазин",
+        "instagram": "@ramsey _kip_univermag_tm"
+      },
+      "chat_raw": [
+        {
+          "ts": "2026-07-27T19:39:18",
+          "question": "На каком языке вам удобнее разговаривать?",
+          "answer": "Русский"
+        },
+        {
+          "ts": "2026-07-27T19:39:22",
+          "question": "Какой у вас бизнес?",
+          "answer": "Магазин"
+        },
+        {
+          "ts": "2026-07-27T19:40:54",
+          "question": "Ваш Instagram-профиль",
+          "answer": "@ramsey _kip_univermag_tm"
+        }
+      ],
+      "calls": [
+        {
+          "ts": "2026-07-27T20:04:35.103000+05:00",
+          "event": "исходящий",
+          "outcome": "",
+          "comment": "",
+          "minutes_to_call": null,
+          "duration": 450
+        }
+      ],
+      "profile": {
+        "handle": "ramsey_kip_univermag_tm",
+        "followers": 6416,
+        "following": 2,
+        "posts": 793,
+        "name": "RAMSEY | KIP",
+        "bio": "•Магазин мужской одежды💼 •Оригинал бренд: RAMSEY, KIP 📍ТЦ.«TURKMENISTAN» (Универмаг) 1 этаж 📲+99365725878 📲+99365637095",
+        "website": "http://www.tiktok.com/@kigili_tanca_uniwermag",
+        "status": "исправлен из «@ramsey _kip_univermag_tm»",
+        "checked": "28.07.2026 21:30",
+        "screenshot_url": "",
+        "stats": {
+          "posts_sampled": 12,
+          "last_post": "24.07.2026",
+          "days_since_last": 4,
+          "posts_per_month": 4.4,
+          "median_likes": 3,
+          "median_views": 446,
+          "er_pct": 0.05,
+          "reels_share_pct": 42
+        },
+        "recent_posts": [
+          {
+            "permalink": "https://www.instagram.com/reel/DbLdDgLqSbK/",
+            "type": "REELS",
+            "ts": "2026-07-24",
+            "likes": 6,
+            "comments": 0,
+            "views": 270,
+            "caption": "📲725878"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbI4bgZqwCz/",
+            "type": "FEED",
+            "ts": "2026-07-23",
+            "likes": 3,
+            "comments": 0,
+            "views": null,
+            "caption": ""
+          },
+          {
+            "permalink": "https://www.instagram.com/p/Dahp2UNuQvz/",
+            "type": "FEED",
+            "ts": "2026-07-08",
+            "likes": 5,
+            "comments": 0,
+            "views": null,
+            "caption": "RAMSEY|KiP 📲725878"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DZoyaHBuOL9/",
+            "type": "FEED",
+            "ts": "2026-06-16",
+            "likes": 2,
+            "comments": 0,
+            "views": null,
+            "caption": "KiP💣"
+          },
+          {
+            "permalink": "https://www.instagram.com/reel/DZWfHcfqjbo/",
+            "type": "REELS",
+            "ts": "2026-06-09",
+            "likes": 0,
+            "comments": 0,
+            "views": 608,
+            "caption": ""
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DZEzz2hO2rF/",
+            "type": "FEED",
+            "ts": "2026-06-02",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": "Lion💫 📲725878"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DYomqI8R0T3/",
+            "type": "FEED",
+            "ts": "2026-05-22",
+            "likes": 3,
+            "comments": 0,
+            "views": null,
+            "caption": "OGLANLAR GURBANLYK BAYRAMYNDA SIZE TAZEJE LION HARYTLARYMYZ GELDI🏃🏃 📲725878 📲637095"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DYoQGpSxpOj/",
+            "type": "FEED",
+            "ts": "2026-05-22",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": ""
+          },
+          {
+            "permalink": "https://www.instagram.com/reel/DYfD982qUWI/",
+            "type": "REELS",
+            "ts": "2026-05-18",
+            "likes": 4,
+            "comments": 0,
+            "views": 479,
+            "caption": "Garaşaryna💣"
+          },
+          {
+            "permalink": "https://www.instagram.com/reel/DYbX6h-KLo0/",
+            "type": "REELS",
+            "ts": "2026-05-17",
+            "likes": 4,
+            "comments": 0,
+            "views": 372,
+            "caption": ""
+          },
+          {
+            "permalink": "https://www.instagram.com/reel/DYG0yDSqSSk/",
+            "type": "REELS",
+            "ts": "2026-05-09",
+            "likes": 15,
+            "comments": 2,
+            "views": 446,
+            "caption": "RAMSEY|KiP"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DX2LaxFjs7c/",
+            "type": "FEED",
+            "ts": "2026-05-02",
+            "likes": 2,
+            "comments": 1,
+            "views": null,
+            "caption": "RAMSEY|KiP 📲725878"
+          }
+        ]
+      },
+      "note": {
+        "n": "59",
+        "category": "интерес",
+        "objections": [],
+        "follow_up": true,
+        "text": "«Давайте завтра обсудим и попробуем»",
+        "original": "\"Давайте завтра обсудим и попробуем\""
+      },
+      "is_test": false,
+      "is_duplicate_phone": false,
+      "reached": true,
+      "minutes_to_call": 26,
+      "nudged": false,
+      "outcome": "",
+      "call_comment": "",
+      "call_stats": {
+        "label": "L59",
+        "minutes_to_call": 26,
+        "outgoing": 1,
+        "reached": true,
+        "conversations": 1,
+        "talk_total": 450,
+        "talk_longest": 450,
+        "called_back": false,
+        "missed_from_them": 0
+      }
+    },
+    {
+      "lead_id": "L1785174061155",
+      "ts": "2026-07-27T22:41:03",
+      "phone": "+993 64 14 70 47",
+      "phone_digits": "99364147047",
+      "source": "landing",
+      "variant": "hero",
+      "page": "https://voronkatm.com/?utm_source=ig&utm_medium=paid&utm_campaign=test01&utm_content=%7B%7Bad.video%7D%7D&utm_id=120249782138050338&utm_term=120249782138060338&fbclid=PAcGRvZgJmZGlkFlC1ZOyFH3o7YNExdRpjJeapXrZUbVRleHRuA2FlbQEwAGFkaWQBqzaLyd8r4nNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp1SuJy7fxVOtXRaw5kt8DTIK-RvBsXLsqE1jSxk8sbGqn60TcWH6SdYpw48J_aem_Sgu3BUvsfRhbVAkTMJYS-Q",
+      "utm": {
+        "source": "ig",
+        "medium": "paid",
+        "campaign": "test01",
+        "content": "{{ad.video}}",
+        "id": "120249782138050338",
+        "creative": "video"
+      },
+      "chat": {
+        "language": "Туркменский",
+        "business": "Бижутерия магазин",
+        "instagram": "@aynabijuteriya"
+      },
+      "chat_raw": [
+        {
+          "ts": "2026-07-27T22:41:11",
+          "question": "На каком языке вам удобнее разговаривать?",
+          "answer": "Туркменский"
+        },
+        {
+          "ts": "2026-07-27T22:41:30",
+          "question": "Какой у вас бизнес?",
+          "answer": "Бижутерия магазин"
+        },
+        {
+          "ts": "2026-07-27T22:42:03",
+          "question": "Ваш Instagram-профиль",
+          "answer": "@aynabijuteriya"
+        }
+      ],
+      "calls": [
+        {
+          "ts": "2026-07-27T22:46:53.555000+05:00",
+          "event": "исходящий",
+          "outcome": "",
+          "comment": "",
+          "minutes_to_call": null,
+          "duration": 142
+        }
+      ],
+      "profile": {
+        "handle": "aynabijuteriya",
+        "followers": 247,
+        "following": 11,
+        "posts": 224,
+        "name": "Moonjewelry",
+        "bio": "* Baku | Ýerewan | Türk modelindäki ýokary hilli bijuteriýalar * Adres Mir2/3 1jay 1podwal * +99364147047|+99365238882 * Eltip berme hyzmat bar🚕",
+        "website": "",
+        "status": "ok",
+        "checked": "28.07.2026 21:30",
+        "screenshot_url": "",
+        "stats": {
+          "posts_sampled": 12,
+          "last_post": "28.07.2026",
+          "days_since_last": 0,
+          "posts_per_month": null,
+          "median_likes": 1,
+          "median_views": 133,
+          "er_pct": 0.4,
+          "reels_share_pct": 25
+        },
+        "recent_posts": [
+          {
+            "permalink": "https://www.instagram.com/reel/DbU3xoLxQ4P/",
+            "type": "REELS",
+            "ts": "2026-07-28",
+            "likes": 2,
+            "comments": 0,
+            "views": 133,
+            "caption": "Exclusive model🔥 🏷️ 250 manat Lux kacestvo💣Amatly baha✅🔥 📞 864147047 📍Yunus Emre Mir 2/3 1-nji jay 1-nji podwal #rekk #keşfet #turkmenistan #fyp"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbU07E6EWI3/",
+            "type": "FEED",
+            "ts": "2026-07-28",
+            "likes": 2,
+            "comments": 0,
+            "views": null,
+            "caption": "Lux kacestvo💣Amatly baha✅🔥 📞 864147047 📍Yunus Emre Mir 2/3 1-nji jay 1-nji podwal"
+          },
+          {
+            "permalink": "https://www.instagram.com/reel/DbUx9DERr4R/",
+            "type": "REELS",
+            "ts": "2026-07-28",
+            "likes": 4,
+            "comments": 0,
+            "views": 140,
+            "caption": "Lux kacestvo💣Amatly baha✅🔥 📞 864147047 📍Yunus Emre Mir 2/3 1-nji jay 1-nji podwal"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbUuvvJkU3M/",
+            "type": "FEED",
+            "ts": "2026-07-28",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": "🏷️ 150 manat Lux kacestvo💣Amatly baha✅🔥 📞 864147047 📍Yunus Emre Mir 2/3 1-nji jay 1-nji podwal #rekk #fyp #keşfet #turkmenistan🇹🇲"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbUud8dkf4g/",
+            "type": "FEED",
+            "ts": "2026-07-28",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": "🏷️ 150 manat Lux kacestvo💣Amatly baha✅🔥 📞 864147047 📍Yunus Emre Mir 2/3 1-nji jay 1-nji podwal #rekk #fyp #keşfet #turkmenistan"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbUuMNtEc2-/",
+            "type": "FEED",
+            "ts": "2026-07-28",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": "🏷️ 150 manat Lux kacestvo💣Amatly baha✅🔥 📞 864147047 📍Yunus Emre Mir 2/3 1-nji jay 1-nji podwal"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbTeQYmsXEW/",
+            "type": "FEED",
+            "ts": "2026-07-27",
+            "likes": 2,
+            "comments": 0,
+            "views": null,
+            "caption": "Exclusive model😍❤️"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbTc4iMMRH0/",
+            "type": "FEED",
+            "ts": "2026-07-27",
+            "likes": 2,
+            "comments": 0,
+            "views": null,
+            "caption": "#rekka #keşfet #ashgabat"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbTcoTXMqmp/",
+            "type": "FEED",
+            "ts": "2026-07-27",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": "#rekk #rek #keşfet"
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbS9-nzsBVM/",
+            "type": "FEED",
+            "ts": "2026-07-27",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": ""
+          },
+          {
+            "permalink": "https://www.instagram.com/p/DbS9vgoshae/",
+            "type": "FEED",
+            "ts": "2026-07-27",
+            "likes": 1,
+            "comments": 0,
+            "views": null,
+            "caption": ""
+          },
+          {
+            "permalink": "https://www.instagram.com/reel/DbS87w7MjR3/",
+            "type": "REELS",
+            "ts": "2026-07-27",
+            "likes": 1,
+            "comments": 0,
+            "views": 116,
+            "caption": ""
+          }
+        ]
+      },
+      "note": {
+        "n": "60",
+        "category": "думает",
+        "objections": [],
+        "follow_up": true,
+        "text": "«Подумаю, потом перезвоню»",
+        "original": "\"Подумаю потом перезвоню\""
+      },
+      "is_test": false,
+      "is_duplicate_phone": false,
+      "reached": true,
+      "minutes_to_call": 6,
+      "nudged": false,
+      "outcome": "",
+      "call_comment": "",
+      "call_stats": {
+        "label": "L60",
+        "minutes_to_call": 6,
+        "outgoing": 1,
+        "reached": true,
+        "conversations": 1,
+        "talk_total": 142,
+        "talk_longest": 142,
+        "called_back": false,
+        "missed_from_them": 0
+      }
+    },
+    {
+      "lead_id": "L1785176448837",
+      "ts": "2026-07-27T23:20:49",
+      "phone": "+993 71 89 16 14",
+      "phone_digits": "99371891614",
+      "source": "landing",
+      "variant": "hero",
+      "page": "https://voronkatm.com/?utm_source=ig&utm_medium=paid&utm_campaign=test01&utm_content=%7B%7Bad.video%7D%7D&utm_id=120249782138050338&utm_term=120249782138060338&fbclid=PAZXh0bgNhZW0BMABhZGlkAas2i8nfK-JzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafLje9llg58N4e5P_6Ib3qMbEJca4w5sGg-Ol34q-KGMiB6f4q1O9TTZ3RPuw_aem_1xuPM6JlcssPExRdAuiqAw",
+      "utm": {
+        "source": "ig",
+        "medium": "paid",
+        "campaign": "test01",
+        "content": "{{ad.video}}",
+        "id": "120249782138050338",
+        "creative": "video"
+      },
+      "chat": {
+        "language": "Туркменский",
+        "business": "Кафе / ресторан",
+        "instagram": "@Howa"
+      },
+      "chat_raw": [
+        {
+          "ts": "2026-07-27T23:20:55",
+          "question": "На каком языке вам удобнее разговаривать?",
+          "answer": "Туркменский"
+        },
+        {
+          "ts": "2026-07-27T23:21:03",
+          "question": "Какой у вас бизнес?",
+          "answer": "Кафе / ресторан"
+        },
+        {
+          "ts": "2026-07-27T23:21:48",
+          "question": "Ваш Instagram-профиль",
+          "answer": "@Howa"
+        }
+      ],
+      "calls": [
+        {
+          "ts": "2026-07-27T23:24:46.209000+05:00",
+          "event": "исходящий",
+          "outcome": "",
+          "comment": "",
+          "minutes_to_call": null,
+          "duration": 0
+        }
+      ],
+      "profile": {
+        "handle": "howa",
+        "followers": null,
+        "following": null,
+        "posts": null,
+        "name": "",
+        "bio": "",
+        "website": "",
+        "status": "не найден",
+        "checked": "28.07.2026 21:30",
+        "screenshot_url": "",
+        "stats": {},
+        "recent_posts": []
+      },
+      "note": {
+        "n": "61",
+        "category": "нет ответа",
+        "objections": [],
+        "follow_up": true,
+        "text": "Не взял",
+        "original": "Не взял"
+      },
+      "is_test": false,
+      "is_duplicate_phone": false,
+      "reached": false,
+      "minutes_to_call": 4,
+      "nudged": false,
+      "outcome": "Не дозвонился",
+      "call_comment": "",
+      "call_stats": {
+        "label": "L61",
+        "minutes_to_call": 4,
+        "outgoing": 1,
+        "reached": false,
+        "conversations": 0,
+        "talk_total": 0,
+        "talk_longest": 0,
+        "called_back": false,
+        "missed_from_them": 0
+      }
+    },
+    {
+      "lead_id": "L1785699778757",
+      "ts": "2026-08-03T00:43:01",
+      "phone": "+993 65 53 52 98",
+      "phone_digits": "99365535298",
+      "source": "landing",
+      "variant": "hero",
+      "page": "https://voronkatm.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_SqnmopVuwk4EY9Twe7FLfl9xWhjCFrdO17ZADHP6_9zNPGp3lFcPoi8Bs9_aem_IA9WdQcvxlRZTvHea1IFlw",
+      "utm": {
+        "source": "ig",
+        "medium": "social",
+        "content": "link_in_bio",
+        "creative": "link_in_bio"
+      },
+      "chat": {},
+      "chat_raw": [],
+      "calls": [],
+      "profile": {},
+      "note": {},
+      "is_test": false,
+      "is_duplicate_phone": true,
+      "reached": null,
+      "minutes_to_call": null,
+      "nudged": false,
+      "outcome": "",
+      "call_comment": "",
+      "call_stats": {}
+    }
+  ]
+}

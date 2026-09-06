@@ -1,0 +1,134 @@
+{
+  "_note": "Generation spec for IG batch 01. AI draws the character/scene with NO text; generate.py composites all Russian text. Scene prompts end with 'no text' on purpose. Character block is verbatim from brand/character.md §4. Colors: offwhite/muted/lime/bg from content-rules.md §2. Coords are normalized 0..1; anchor = h(l/c/r)+v(t/m/b).",
+  "character_block": "Use the exact same character as in the attached reference images: a young Turkmen guy in premium 3D Pixar-style — warm tan skin, big brown eyes, thick dark eyebrows, short fluffy brown hair, friendly confident smirk, slim stylized build. He wears his signature dark olive-green track jacket with a high collar and a single khaki sleeve stripe, with a glowing neon Turkmenistan flag patch (green field, crescent and five stars, red ornament stripe) on the left chest, over a darker olive tee, olive joggers and white sneakers with green stripes. Same face, same hair, same proportions, same outfit as the references — do not redesign him. Cinematic dark scene: near-black background #0A0C0B with deep green tint, electric lime #B4FF3A rim lighting and glow accents, soft depth of field, glossy premium 3D render, dark moody atmosphere. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere in the image — leave clean negative space for text to be added later. No logos, no watermarks.",
+
+  "images": [
+    {
+      "id": "p1s1",
+      "size": [1080, 1350],
+      "ai": {
+        "refs": ["brand/character-refs/ref-02-hero-closeup-flag-jacket.png", "brand/character-refs/ref-03-full-sheet-poses-expressions.png"],
+        "prompt": "Instagram carousel cover, 4:5 vertical. The character stands on the LEFT third, half-body, confident smirk, one open hand gesturing toward the right. On the RIGHT side, low, a thin glowing lime funnel diagram of four narrowing segments with small flowing dots. Keep the UPPER-RIGHT area clean empty negative space. Use the exact same character as in the attached reference images: a young Turkmen guy in premium 3D Pixar-style — warm tan skin, big brown eyes, thick dark eyebrows, short fluffy brown hair, friendly confident smirk, slim stylized build. He wears his signature dark olive-green track jacket with a high collar and a single khaki sleeve stripe, with a glowing neon Turkmenistan flag patch (green field, crescent and five stars, red ornament stripe) on the left chest, over a darker olive tee, olive joggers and white sneakers with green stripes. Same face, same hair, same proportions, same outfit as the references — do not redesign him. Cinematic dark scene: near-black background #0A0C0B with deep green tint, electric lime #B4FF3A rim lighting and glow accents, soft depth of field, glossy premium 3D render, dark moody atmosphere. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere in the image — leave clean negative space for text to be added later. No logos, no watermarks."
+      },
+      "layers": [
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 30, "color": "muted", "xy": [0.06, 0.055], "anchor": "lt"},
+        {"type": "text", "text": "Как к вам приходит клиент", "highlight": "клиент", "hl_color": "lime", "font": "sans_bold", "size": 88, "color": "offwhite", "xy": [0.94, 0.12], "anchor": "rt", "max_w": 0.62, "align": "right", "leading": 1.08},
+        {"type": "text", "text": "Система из 4 частей — от рекламы до звонка", "font": "sans", "size": 34, "color": "muted", "xy": [0.94, 0.40], "anchor": "rt", "max_w": 0.55, "align": "right"},
+        {"type": "text", "text": "листайте →", "font": "mono", "size": 30, "color": "lime", "xy": [0.94, 0.945], "anchor": "rb"}
+      ]
+    },
+
+    {
+      "id": "p1s2",
+      "size": [1080, 1350],
+      "ai": {
+        "prompt": "Instagram carousel slide, 4:5 vertical, minimal flat vector, near-black background #0A0C0B, generous dark negative space. A single large minimal flat line-art icon in electric lime #B4FF3A centered in the LOWER HALF: a target/crosshair with a small camera outline. Keep the TOP HALF empty clean negative space. Thin lime lines and dots as the only decoration. No photos, no people, no gradients. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere."
+      },
+      "layers": [
+        {"type": "text", "text": "01", "font": "mono", "size": 64, "color": "lime", "xy": [0.07, 0.08], "anchor": "lt"},
+        {"type": "text", "text": "Таргетированная реклама", "highlight": "реклама", "font": "sans_bold", "size": 62, "color": "offwhite", "xy": [0.07, 0.24], "anchor": "lt", "max_w": 0.86, "leading": 1.06},
+        {"type": "text", "text": "Показываем вашу рекламу в Instagram тем, кому это интересно", "font": "sans", "size": 34, "color": "muted", "xy": [0.07, 0.42], "anchor": "lt", "max_w": 0.82},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 26, "color": "muted", "xy": [0.07, 0.945], "anchor": "lb"},
+        {"type": "text", "text": "● ○ ○ ○", "font": "mono", "size": 30, "color": "lime", "xy": [0.93, 0.945], "anchor": "rb"}
+      ]
+    },
+
+    {
+      "id": "p1s3",
+      "size": [1080, 1350],
+      "ai": {
+        "prompt": "Instagram carousel slide, 4:5 vertical, minimal flat vector, near-black background #0A0C0B, generous dark negative space. A single large minimal flat line-art icon in electric lime #B4FF3A centered in the LOWER HALF: a smartphone with a simple form field and a button. Keep the TOP HALF empty clean negative space. Thin lime lines and dots as the only decoration. No photos, no people, no gradients. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere."
+      },
+      "layers": [
+        {"type": "text", "text": "02", "font": "mono", "size": 64, "color": "lime", "xy": [0.07, 0.08], "anchor": "lt"},
+        {"type": "text", "text": "Сайт с заявкой", "highlight": "заявкой", "font": "sans_bold", "size": 62, "color": "offwhite", "xy": [0.07, 0.24], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "Клиент за 10 секунд оставляет свой номер телефона", "font": "sans", "size": 34, "color": "muted", "xy": [0.07, 0.42], "anchor": "lt", "max_w": 0.82},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 26, "color": "muted", "xy": [0.07, 0.945], "anchor": "lb"},
+        {"type": "text", "text": "○ ● ○ ○", "font": "mono", "size": 30, "color": "lime", "xy": [0.93, 0.945], "anchor": "rb"}
+      ]
+    },
+
+    {
+      "id": "p1s4",
+      "size": [1080, 1350],
+      "ai": {
+        "prompt": "Instagram carousel slide, 4:5 vertical, minimal flat vector, near-black background #0A0C0B, generous dark negative space. A single large minimal flat line-art icon in electric lime #B4FF3A centered in the LOWER HALF: a paper-plane chat bubble with a notification dot. Keep the TOP HALF empty clean negative space. Thin lime lines and dots as the only decoration. No photos, no people, no gradients. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere."
+      },
+      "layers": [
+        {"type": "text", "text": "03", "font": "mono", "size": 64, "color": "lime", "xy": [0.07, 0.08], "anchor": "lt"},
+        {"type": "text", "text": "Telegram-бот", "highlight": "Telegram", "font": "sans_bold", "size": 62, "color": "offwhite", "xy": [0.07, 0.24], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "Каждая заявка сразу приходит вам в телефон", "font": "sans", "size": 34, "color": "muted", "xy": [0.07, 0.42], "anchor": "lt", "max_w": 0.82},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 26, "color": "muted", "xy": [0.07, 0.945], "anchor": "lb"},
+        {"type": "text", "text": "○ ○ ● ○", "font": "mono", "size": 30, "color": "lime", "xy": [0.93, 0.945], "anchor": "rb"}
+      ]
+    },
+
+    {
+      "id": "p1s5",
+      "size": [1080, 1350],
+      "ai": {
+        "prompt": "Instagram carousel slide, 4:5 vertical, minimal flat vector, near-black background #0A0C0B, generous dark negative space. A single large minimal flat line-art icon in electric lime #B4FF3A centered in the LOWER HALF: a clean table/spreadsheet with a small rising chart. Keep the TOP HALF empty clean negative space. Thin lime lines and dots as the only decoration. No photos, no people, no gradients. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere."
+      },
+      "layers": [
+        {"type": "text", "text": "04", "font": "mono", "size": 64, "color": "lime", "xy": [0.07, 0.08], "anchor": "lt"},
+        {"type": "text", "text": "CRM и аналитика", "highlight": "аналитика", "font": "sans_bold", "size": 62, "color": "offwhite", "xy": [0.07, 0.24], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "Все клиенты в одном месте. Видно, сколько стоила каждая заявка", "font": "sans", "size": 34, "color": "muted", "xy": [0.07, 0.42], "anchor": "lt", "max_w": 0.82},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 26, "color": "muted", "xy": [0.07, 0.945], "anchor": "lb"},
+        {"type": "text", "text": "○ ○ ○ ●", "font": "mono", "size": 30, "color": "lime", "xy": [0.93, 0.945], "anchor": "rb"}
+      ]
+    },
+
+    {
+      "id": "p1s6",
+      "size": [1080, 1350],
+      "ai": {
+        "refs": ["brand/character-refs/ref-02-hero-closeup-flag-jacket.png", "brand/character-refs/ref-03-full-sheet-poses-expressions.png"],
+        "prompt": "Instagram carousel final slide, 4:5 vertical. The character stands centered-right, friendly confident smirk, one hand pointing down-left toward empty space where a button will go. Keep the UPPER area and the LOWER-LEFT area clean empty negative space. Use the exact same character as in the attached reference images: a young Turkmen guy in premium 3D Pixar-style — warm tan skin, big brown eyes, thick dark eyebrows, short fluffy brown hair, friendly confident smirk, slim stylized build. He wears his signature dark olive-green track jacket with a high collar and a single khaki sleeve stripe, with a glowing neon Turkmenistan flag patch (green field, crescent and five stars, red ornament stripe) on the left chest, over a darker olive tee, olive joggers and white sneakers with green stripes. Same face, same hair, same proportions, same outfit as the references — do not redesign him. Cinematic dark scene: near-black background #0A0C0B with deep green tint, electric lime #B4FF3A rim lighting and glow accents, soft depth of field, glossy premium 3D render, dark moody atmosphere. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere in the image — leave clean negative space for text. No logos, no watermarks."
+      },
+      "layers": [
+        {"type": "text", "text": "Хотите так же?", "highlight": "так же", "font": "sans_bold", "size": 84, "color": "offwhite", "xy": [0.07, 0.10], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "Бесплатный аудит — покажем, где вы теряете клиентов", "font": "sans", "size": 34, "color": "muted", "xy": [0.07, 0.27], "anchor": "lt", "max_w": 0.7},
+        {"type": "rect", "rect": [0.07, 0.78, 0.62, 0.09], "fill": "lime", "radius": 44, "label": {"text": "Ссылка в шапке профиля", "font": "sans_bold", "size": 36, "color": "bg"}},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 28, "color": "muted", "xy": [0.07, 0.90], "anchor": "lt"}
+      ]
+    },
+
+    {
+      "id": "p2",
+      "size": [1080, 1350],
+      "ai": {
+        "refs": ["brand/character-refs/ref-02-hero-closeup-flag-jacket.png", "brand/character-refs/ref-03-full-sheet-poses-expressions.png"],
+        "prompt": "Instagram post, 4:5 vertical. The character sits/leans on the LEFT in a thinking pose, chin resting on his hand, slightly concerned but curious expression, lime rim light. Keep the RIGHT side and the TOP a clean dark empty area for a text panel and headline. Use the exact same character as in the attached reference images: a young Turkmen guy in premium 3D Pixar-style — warm tan skin, big brown eyes, thick dark eyebrows, short fluffy brown hair, friendly confident smirk, slim stylized build. He wears his signature dark olive-green track jacket with a high collar and a single khaki sleeve stripe, with a glowing neon Turkmenistan flag patch (green field, crescent and five stars, red ornament stripe) on the left chest, over a darker olive tee, olive joggers and white sneakers with green stripes. Same face, same hair, same proportions, same outfit as the references — do not redesign him. Cinematic dark scene: near-black background #0A0C0B with deep green tint, electric lime #B4FF3A rim lighting and glow accents, soft depth of field, glossy premium 3D render, dark moody atmosphere. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere in the image — leave clean negative space for text. No logos, no watermarks."
+      },
+      "layers": [
+        {"type": "text", "text": "Клиенты есть в Instagram —", "font": "sans_bold", "size": 56, "color": "offwhite", "xy": [0.07, 0.07], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "но до вас не доходят", "highlight": "не доходят", "font": "sans_bold", "size": 56, "color": "offwhite", "xy": [0.07, 0.155], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "Постите — а заявок нет", "font": "sans", "size": 36, "color": "offwhite", "xy": [0.40, 0.40], "anchor": "lt", "max_w": 0.56},
+        {"type": "text", "text": "Реклама сливает бюджет", "font": "sans", "size": 36, "color": "offwhite", "xy": [0.40, 0.475], "anchor": "lt", "max_w": 0.56},
+        {"type": "text", "text": "Заявки теряются в Direct", "font": "sans", "size": 36, "color": "offwhite", "xy": [0.40, 0.55], "anchor": "lt", "max_w": 0.56},
+        {"type": "text", "text": "Нет времени на всё это", "font": "sans", "size": 36, "color": "offwhite", "xy": [0.40, 0.625], "anchor": "lt", "max_w": 0.56},
+        {"type": "text", "text": "Причина одна: нет системы", "highlight": "нет системы", "font": "sans_bold", "size": 46, "color": "lime", "xy": [0.07, 0.85], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 26, "color": "muted", "xy": [0.07, 0.94], "anchor": "lt"}
+      ]
+    },
+
+    {
+      "id": "p3",
+      "size": [1080, 1350],
+      "ai": {
+        "refs": ["brand/character-refs/ref-02-hero-closeup-flag-jacket.png", "brand/character-refs/ref-03-full-sheet-poses-expressions.png"],
+        "prompt": "Instagram post, 4:5 vertical. The character stands on the RIGHT, confident smirk, one hand gesturing toward the LEFT where a dashboard card will be placed. Keep the LEFT-CENTER area and the TOP clean empty dark negative space. Use the exact same character as in the attached reference images: a young Turkmen guy in premium 3D Pixar-style — warm tan skin, big brown eyes, thick dark eyebrows, short fluffy brown hair, friendly confident smirk, slim stylized build. He wears his signature dark olive-green track jacket with a high collar and a single khaki sleeve stripe, with a glowing neon Turkmenistan flag patch (green field, crescent and five stars, red ornament stripe) on the left chest, over a darker olive tee, olive joggers and white sneakers with green stripes. Same face, same hair, same proportions, same outfit as the references — do not redesign him. Cinematic dark scene: near-black background #0A0C0B with deep green tint, electric lime #B4FF3A rim lighting and glow accents, soft depth of field, glossy premium 3D render, dark moody atmosphere. IMPORTANT: render NO text, NO words, NO letters, NO numbers anywhere in the image — leave clean negative space for text. No logos, no watermarks."
+      },
+      "layers": [
+        {"type": "text", "text": "Реклама без догадок", "highlight": "без догадок", "font": "sans_bold", "size": 66, "color": "offwhite", "xy": [0.07, 0.07], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "Вы видите, сколько стоит каждая заявка", "font": "sans", "size": 34, "color": "muted", "xy": [0.07, 0.19], "anchor": "lt", "max_w": 0.8},
+        {"type": "rect", "rect": [0.07, 0.33, 0.52, 0.30], "outline": "lime", "width": 3, "radius": 28},
+        {"type": "text", "text": "Заявки       47", "font": "mono", "size": 34, "color": "offwhite", "xy": [0.11, 0.37], "anchor": "lt"},
+        {"type": "text", "text": "Продажи    12", "font": "mono", "size": 34, "color": "offwhite", "xy": [0.11, 0.44], "anchor": "lt"},
+        {"type": "text", "text": "Реклама   $25", "font": "mono", "size": 34, "color": "lime", "xy": [0.11, 0.51], "anchor": "lt"},
+        {"type": "text", "text": "Цифры вместо догадок", "highlight": "Цифры", "font": "sans_bold", "size": 46, "color": "lime", "xy": [0.07, 0.88], "anchor": "lt", "max_w": 0.86},
+        {"type": "text", "text": "voronka.tm", "font": "mono", "size": 26, "color": "muted", "xy": [0.93, 0.94], "anchor": "rt"}
+      ]
+    }
+  ]
+}

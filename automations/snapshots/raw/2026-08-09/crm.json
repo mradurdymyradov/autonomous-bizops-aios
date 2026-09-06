@@ -1,0 +1,51 @@
+{
+  "window": "last 7 days",
+  "sheet": "19v4oqQ-l2-aibrUCZ_t9960CP6DSPzPUN-X6xvikEIA",
+  "tabs": {
+    "leads": "Заявки",
+    "calls": "Звонки",
+    "chat": "Чат-лог",
+    "profiles": "Профили",
+    "notes": "Заметки"
+  },
+  "hidden_test_rows": 0,
+  "count": 1,
+  "summary": {
+    "leads_real": 0,
+    "rows": 1,
+    "duplicate_phones": 1,
+    "tests_hidden": 0,
+    "no_phone": 0,
+    "by_creative": {}
+  },
+  "leads": [
+    {
+      "lead_id": "L1785699778757",
+      "ts": "2026-08-03T00:43:01",
+      "phone": "+993 65 53 52 98",
+      "phone_digits": "99365535298",
+      "source": "landing",
+      "variant": "hero",
+      "page": "https://voronkatm.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_SqnmopVuwk4EY9Twe7FLfl9xWhjCFrdO17ZADHP6_9zNPGp3lFcPoi8Bs9_aem_IA9WdQcvxlRZTvHea1IFlw",
+      "utm": {
+        "source": "ig",
+        "medium": "social",
+        "content": "link_in_bio",
+        "creative": "link_in_bio"
+      },
+      "chat": {},
+      "chat_raw": [],
+      "calls": [],
+      "profile": {},
+      "note": {},
+      "is_test": false,
+      "is_duplicate_phone": true,
+      "reached": null,
+      "minutes_to_call": null,
+      "nudged": false,
+      "outcome": "",
+      "call_comment": "",
+      "call_stats": {}
+    }
+  ]
+}

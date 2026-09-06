@@ -1,0 +1,6 @@
+.env
+posted/
+outbox/
+post.log
+__pycache__/
+*.pyc

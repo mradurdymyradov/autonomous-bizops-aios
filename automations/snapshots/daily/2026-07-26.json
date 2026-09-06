@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-26",
+  "captured_at": "2026-08-02T22:23:42Z",
+  "final": true,
+  "sources_ok": [
+    "cf",
+    "crm",
+    "ga4",
+    "ig",
+    "meta"
+  ],
+  "sources_failed": {},
+  "meta": {
+    "spend_usd": 5.27,
+    "impressions": 4511,
+    "reach": 3656,
+    "clicks": 96,
+    "link_clicks": 52,
+    "landing_page_views": 31,
+    "meta_leads": 14,
+    "cpc": 0.054896,
+    "ctr": 2.128131
+  },
+  "ga4": {
+    "sessions": 58,
+    "engaged_sessions": 19,
+    "key_events": 0,
+    "generate_lead": 14,
+    "paid_sessions": 54,
+    "key_events_configured": false
+  },
+  "crm": {
+    "leads_raw_rows": 14,
+    "leads_real": 14,
+    "by_creative": {
+      "video": 11,
+      "(none)": 2,
+      "link_in_bio": 1
+    },
+    "by_business": {
+      "Услуги": 2,
+      "Кафе / ресторан": 2,
+      "Салон красоты": 2,
+      "Магазин": 5,
+      "цветочный магазин": 1
+    },
+    "by_language": {
+      "Русский": 6,
+      "Туркменский": 6
+    },
+    "duplicate_phones": 0,
+    "no_phone": 0
+  },
+  "ig": {
+    "account_reach": 2726,
+    "followers": 53,
+    "posts_live": 3
+  },
+  "cf": {
+    "tz": "UTC",
+    "origin_5xx": 0,
+    "page_views_bot_inflated": 461,
+    "function_invocations": 197,
+    "function_errors": 0
+  },
+  "money": {
+    "spend_usd": 5.27,
+    "revenue_usd": 0
+  },
+  "funnel": {
+    "impressions": 4511,
+    "link_clicks": 52,
+    "ga4_sessions": 58,
+    "generate_lead": 14,
+    "leads_real": 14
+  }
+}

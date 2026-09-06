@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-08",
+  "captured_at": "2026-08-08T20:59:26Z",
+  "final": false,
+  "sources_ok": [
+    "cf",
+    "crm",
+    "ga4",
+    "ig",
+    "meta"
+  ],
+  "sources_failed": {},
+  "meta": {
+    "spend_usd": 0.06,
+    "impressions": 67,
+    "reach": 65,
+    "clicks": 8,
+    "link_clicks": 3,
+    "landing_page_views": 3,
+    "meta_leads": 0,
+    "cpc": 0.0075,
+    "ctr": 11.940299
+  },
+  "ga4": {
+    "sessions": 3,
+    "engaged_sessions": 0,
+    "key_events": 0,
+    "generate_lead": 0,
+    "paid_sessions": 0,
+    "key_events_configured": false
+  },
+  "crm": {
+    "leads_real": 0,
+    "leads_raw_rows": 0,
+    "duplicate_phones": 0,
+    "no_phone": 0
+  },
+  "ig": {
+    "followers": 52,
+    "posts_live": 3
+  },
+  "cf": {
+    "tz": "UTC",
+    "origin_5xx": 0,
+    "page_views_bot_inflated": 126,
+    "function_invocations": 2,
+    "function_errors": 0
+  },
+  "money": {
+    "spend_usd": 0.06,
+    "revenue_usd": 0
+  },
+  "funnel": {
+    "impressions": 67,
+    "link_clicks": 3,
+    "ga4_sessions": 3,
+    "generate_lead": 0,
+    "leads_real": 0
+  }
+}

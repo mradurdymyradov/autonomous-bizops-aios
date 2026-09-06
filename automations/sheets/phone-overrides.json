@@ -1,0 +1,8 @@
+{
+  "_comment": "Lead ID -> the real phone number, for заявки where «Заявки» has no phone or a wrong one. The form sometimes fires the chat without landing the submit, so a real lead arrives with no number; Operator then reaches them another way and saves the contact in his phone. calls.py cannot infer that link -- a contact label lining up with a gap in the numbering is a guess, not evidence -- so a confirmed answer goes here and survives every rebuild. Never add a row you haven't confirmed with Operator. Format: \"L…\": {\"phone\": \"+993 XX XX XX XX\", \"why\": \"how it was confirmed\"}.",
+
+  "L1785146484525": {
+    "phone": "+993 61 10 90 50",
+    "why": "заявка 27.07 15:01 пришла без телефона (форма не записала). В журнале звонков контакт «L57» +99361109050, звонок 27.07 18:50 — попадает ровно в разрыв нумерации между L56 (27.07 13:43) и L58 (27.07 18:08). Operator подтвердил 2026-07-28: это его собственная тестовая заявка."
+  }
+}

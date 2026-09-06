@@ -1,0 +1,115 @@
+{
+  "_note": "Client-facing day-1 report for ng_makeup_stylist (Наргиля), 9:16 stories, 3 frames. SAME split as every other spec: the model draws a TEXTLESS ivory plate, generate.py composites all Russian + every number with PIL, so Cyrillic and figures are exact. Palette is HER landing page (ng_* tokens in generate.py), not voronka's lime-on-black — this is her report, not our feed post. Standalone generation, NO reference images (content-rules.md REFERENCE-IMAGE LAW: never attach a ref that contains text). Every figure verified against the Meta Marketing API and GA4 property 548453232 on 2026-08-06; see the run in this session before reusing.",
+
+  "_plate_prompt_is_identical_on_all_three": "Reused deliberately — one plate, three frames, gives the series a single visual identity. Generate once and reuse via --bases-dir if you prefer.",
+
+  "images": [
+    {
+      "id": "ng-d1-1",
+      "size": [1080, 1920],
+      "base": "ng_ivory",
+      "ai": {
+        "prompt": "Vertical 9:16 poster background for a premium editorial business report. A soft warm ivory paper ground, colour #F7F3EC, with a barely perceptible tonal shift from slightly warmer at the top to slightly cooler at the bottom, like heavyweight uncoated fine-art stock photographed in soft daylight. Very fine natural paper grain, no visible repeating pattern. Across the TOP EDGE only, within the first eighth of the height, a delicate minimal arrangement of thin muted antique gold hairlines, colour #B08D57 — a few long horizontal rules of different lengths and two or three small hollow circles, spaced with a great deal of air, like the masthead rule of a restrained Swiss editorial magazine. Across the BOTTOM EDGE only, within the last tenth of the height, a single thin gold hairline with one small hollow circle at its left end. The ENTIRE MIDDLE of the image, from 12 percent to 88 percent of the height, must be completely clean empty ivory with absolutely nothing on it. Muted, restrained, expensive, calm, generous negative space. Warm neutral palette only — ivory, cream, sand, muted antique gold. No black, no bright or saturated colour, no photographs, no people, no objects, no icons, no charts or graphs, no attention-grabbing gradients, no heavy texture overlay, no border or frame around the edges. IMPORTANT: render NO text, NO words, NO letters, NO numbers, NO logos and NO watermarks anywhere in the image — leave clean negative space for text to be added later."
+      },
+      "layers": [
+        {"type": "text", "text": "ОТЧЁТ ПО РЕКЛАМЕ · ДЕНЬ 1", "font": "mono", "size": 24, "color": "ng_gold", "xy": [0.08, 0.062], "anchor": "lt"},
+        {"type": "text", "text": "5 АВГУСТА 2026", "font": "mono", "size": 24, "color": "ng_taupe", "xy": [0.92, 0.062], "anchor": "rt"},
+
+        {"type": "text", "text": "Первый день рекламы", "font": "sans_bold", "size": 64, "color": "ng_espresso", "xy": [0.08, 0.100], "anchor": "lt", "max_w": 0.72, "leading": 1.08},
+        {"type": "text", "text": "Ашхабад · Instagram · бюджет $5 в сутки", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.08, 0.190], "anchor": "lt", "max_w": 0.80},
+
+        {"type": "text", "text": "ПУТЬ КЛИЕНТА ЗА СУТКИ", "font": "mono", "size": 23, "color": "ng_gold", "xy": [0.08, 0.250], "anchor": "lt"},
+
+        {"type": "text", "text": "3 072", "font": "sans_bold", "size": 54, "color": "ng_espresso", "xy": [0.08, 0.300], "anchor": "lt"},
+        {"type": "text", "text": "женщины увидели рекламу", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.36, 0.314], "anchor": "lt", "max_w": 0.56},
+        {"type": "rect", "rect": [0.08, 0.358, 0.84, 0.0012], "fill": "ng_sand", "radius": 0},
+
+        {"type": "text", "text": "81", "font": "sans_bold", "size": 54, "color": "ng_espresso", "xy": [0.08, 0.372], "anchor": "lt"},
+        {"type": "text", "text": "нажали и пошли на сайт", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.36, 0.386], "anchor": "lt", "max_w": 0.56},
+        {"type": "rect", "rect": [0.08, 0.430, 0.84, 0.0012], "fill": "ng_sand", "radius": 0},
+
+        {"type": "text", "text": "68", "font": "sans_bold", "size": 54, "color": "ng_espresso", "xy": [0.08, 0.444], "anchor": "lt"},
+        {"type": "text", "text": "сайт успел открыться", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.36, 0.458], "anchor": "lt", "max_w": 0.56},
+        {"type": "rect", "rect": [0.08, 0.502, 0.84, 0.0012], "fill": "ng_sand", "radius": 0},
+
+        {"type": "text", "text": "4", "font": "sans_bold", "size": 54, "color": "ng_espresso", "xy": [0.08, 0.516], "anchor": "lt"},
+        {"type": "text", "text": "задержались дольше 10 секунд", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.36, 0.530], "anchor": "lt", "max_w": 0.56},
+        {"type": "rect", "rect": [0.08, 0.574, 0.84, 0.0012], "fill": "ng_sand", "radius": 0},
+
+        {"type": "text", "text": "0", "font": "sans_bold", "size": 54, "color": "ng_gold", "xy": [0.08, 0.588], "anchor": "lt"},
+        {"type": "text", "text": "оставили номер", "font": "sans", "size": 28, "color": "ng_espresso", "xy": [0.36, 0.602], "anchor": "lt", "max_w": 0.56},
+
+        {"type": "rect", "rect": [0.08, 0.700, 0.84, 0.098], "fill": "ng_cream", "radius": 10},
+        {"type": "text", "text": "ПОТРАЧЕНО", "font": "mono", "size": 21, "color": "ng_taupe", "xy": [0.115, 0.722], "anchor": "lt"},
+        {"type": "text", "text": "$3,17 из $5,00", "font": "sans_bold", "size": 33, "color": "ng_espresso", "xy": [0.115, 0.750], "anchor": "lt"},
+        {"type": "text", "text": "КЛИК", "font": "mono", "size": 21, "color": "ng_taupe", "xy": [0.535, 0.722], "anchor": "lt"},
+        {"type": "text", "text": "$0,02", "font": "sans_bold", "size": 33, "color": "ng_espresso", "xy": [0.535, 0.750], "anchor": "lt"},
+        {"type": "text", "text": "1000 ПОКАЗОВ", "font": "mono", "size": 21, "color": "ng_taupe", "xy": [0.735, 0.722], "anchor": "lt"},
+        {"type": "text", "text": "$0,89", "font": "sans_bold", "size": 33, "color": "ng_espresso", "xy": [0.735, 0.750], "anchor": "lt"},
+
+        {"type": "text", "text": "1 / 3", "font": "mono", "size": 22, "color": "ng_taupe", "xy": [0.92, 0.930], "anchor": "rt"}
+      ]
+    },
+
+    {
+      "id": "ng-d1-2",
+      "size": [1080, 1920],
+      "base": "ng_ivory",
+      "ai": {
+        "prompt": "Vertical 9:16 poster background for a premium editorial business report. A soft warm ivory paper ground, colour #F7F3EC, with a barely perceptible tonal shift from slightly warmer at the top to slightly cooler at the bottom, like heavyweight uncoated fine-art stock photographed in soft daylight. Very fine natural paper grain, no visible repeating pattern. Across the TOP EDGE only, within the first eighth of the height, a delicate minimal arrangement of thin muted antique gold hairlines, colour #B08D57 — a few long horizontal rules of different lengths and two or three small hollow circles, spaced with a great deal of air, like the masthead rule of a restrained Swiss editorial magazine. Across the BOTTOM EDGE only, within the last tenth of the height, a single thin gold hairline with one small hollow circle at its left end. The ENTIRE MIDDLE of the image, from 12 percent to 88 percent of the height, must be completely clean empty ivory with absolutely nothing on it. Muted, restrained, expensive, calm, generous negative space. Warm neutral palette only — ivory, cream, sand, muted antique gold. No black, no bright or saturated colour, no photographs, no people, no objects, no icons, no charts or graphs, no attention-grabbing gradients, no heavy texture overlay, no border or frame around the edges. IMPORTANT: render NO text, NO words, NO letters, NO numbers, NO logos and NO watermarks anywhere in the image — leave clean negative space for text to be added later."
+      },
+      "layers": [
+        {"type": "text", "text": "ГДЕ ПОТЕРЯЛИ", "font": "mono", "size": 24, "color": "ng_gold", "xy": [0.08, 0.062], "anchor": "lt"},
+        {"type": "text", "text": "ДЕНЬ 1 · 5 АВГУСТА", "font": "mono", "size": 24, "color": "ng_taupe", "xy": [0.92, 0.062], "anchor": "rt"},
+
+        {"type": "text", "text": "Форму никто не увидел", "font": "sans_bold", "size": 62, "color": "ng_espresso", "xy": [0.08, 0.100], "anchor": "lt", "max_w": 0.76, "leading": 1.08},
+
+        {"type": "text", "text": "Поле для номера стояло в самом низу страницы. 60 из 68 человек ушли, не дойдя до него.", "font": "sans", "size": 34, "color": "ng_espresso", "xy": [0.08, 0.215], "anchor": "lt", "max_w": 0.84, "leading": 1.34},
+
+        {"type": "rect", "rect": [0.08, 0.355, 0.84, 0.128], "fill": "ng_cream", "radius": 10},
+        {"type": "text", "text": "ДЛЯ СРАВНЕНИЯ", "font": "mono", "size": 21, "color": "ng_gold", "xy": [0.115, 0.380], "anchor": "lt"},
+        {"type": "text", "text": "На нашей кампании 48 из 61 заявки пришли с формы в первом экране. На сайте Наргили такой формы не было.", "font": "sans", "size": 29, "color": "ng_espresso", "xy": [0.115, 0.412], "anchor": "lt", "max_w": 0.77, "leading": 1.32},
+
+        {"type": "text", "text": "ПОЧЕМУ ТАК ВЫШЛО", "font": "mono", "size": 23, "color": "ng_gold", "xy": [0.08, 0.585], "anchor": "lt"},
+        {"type": "text", "text": "Наша недоработка: мы знали это по своей кампании и не перенесли на её сайт. Исправили в тот же день, через 12 часов после старта.", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.08, 0.617], "anchor": "lt", "max_w": 0.84, "leading": 1.32},
+
+        {"type": "text", "text": "ЧТО ЭТО ЗНАЧИТ", "font": "mono", "size": 23, "color": "ng_gold", "xy": [0.08, 0.760], "anchor": "lt"},
+        {"type": "text", "text": "Ноль заявок в первый день — это не про цену и не про рекламу. Людям просто некуда было оставить номер.", "font": "sans", "size": 28, "color": "ng_espresso", "xy": [0.08, 0.792], "anchor": "lt", "max_w": 0.84, "leading": 1.32},
+
+        {"type": "text", "text": "2 / 3", "font": "mono", "size": 22, "color": "ng_taupe", "xy": [0.92, 0.930], "anchor": "rt"}
+      ]
+    },
+
+    {
+      "id": "ng-d1-3",
+      "size": [1080, 1920],
+      "base": "ng_ivory",
+      "ai": {
+        "prompt": "Vertical 9:16 poster background for a premium editorial business report. A soft warm ivory paper ground, colour #F7F3EC, with a barely perceptible tonal shift from slightly warmer at the top to slightly cooler at the bottom, like heavyweight uncoated fine-art stock photographed in soft daylight. Very fine natural paper grain, no visible repeating pattern. Across the TOP EDGE only, within the first eighth of the height, a delicate minimal arrangement of thin muted antique gold hairlines, colour #B08D57 — a few long horizontal rules of different lengths and two or three small hollow circles, spaced with a great deal of air, like the masthead rule of a restrained Swiss editorial magazine. Across the BOTTOM EDGE only, within the last tenth of the height, a single thin gold hairline with one small hollow circle at its left end. The ENTIRE MIDDLE of the image, from 12 percent to 88 percent of the height, must be completely clean empty ivory with absolutely nothing on it. Muted, restrained, expensive, calm, generous negative space. Warm neutral palette only — ivory, cream, sand, muted antique gold. No black, no bright or saturated colour, no photographs, no people, no objects, no icons, no charts or graphs, no attention-grabbing gradients, no heavy texture overlay, no border or frame around the edges. IMPORTANT: render NO text, NO words, NO letters, NO numbers, NO logos and NO watermarks anywhere in the image — leave clean negative space for text to be added later."
+      },
+      "layers": [
+        {"type": "text", "text": "ЧТО ИЗМЕНИЛИ", "font": "mono", "size": 24, "color": "ng_gold", "xy": [0.08, 0.062], "anchor": "lt"},
+        {"type": "text", "text": "ДЕНЬ 1 → ДЕНЬ 2", "font": "mono", "size": 24, "color": "ng_taupe", "xy": [0.92, 0.062], "anchor": "rt"},
+
+        {"type": "text", "text": "Две правки за сутки", "font": "sans_bold", "size": 62, "color": "ng_espresso", "xy": [0.08, 0.100], "anchor": "lt", "max_w": 0.74, "leading": 1.08},
+
+        {"type": "text", "text": "5 АВГУСТА, 13:45 · САЙТ", "font": "mono", "size": 22, "color": "ng_gold", "xy": [0.08, 0.212], "anchor": "lt"},
+        {"type": "text", "text": "Поле для номера подняли в первый экран, сразу под заголовок. Фото уменьшили, чтобы форма помещалась целиком.", "font": "sans", "size": 28, "color": "ng_espresso", "xy": [0.08, 0.242], "anchor": "lt", "max_w": 0.84, "leading": 1.32},
+        {"type": "rect", "rect": [0.08, 0.352, 0.84, 0.0012], "fill": "ng_sand", "radius": 0},
+
+        {"type": "text", "text": "6 АВГУСТА, 02:50 · РЕКЛАМА", "font": "mono", "size": 22, "color": "ng_gold", "xy": [0.08, 0.378], "anchor": "lt"},
+        {"type": "text", "text": "Возраст 18–65 → 18–35, убрали Stories. Больше половины бюджета уходило туда, где клик втрое дороже, а до сайта доходил лишь каждый четвёртый.", "font": "sans", "size": 28, "color": "ng_espresso", "xy": [0.08, 0.408], "anchor": "lt", "max_w": 0.84, "leading": 1.32},
+        {"type": "rect", "rect": [0.08, 0.545, 0.84, 0.0012], "fill": "ng_sand", "radius": 0},
+
+        {"type": "text", "text": "НЕ ТРОГАЛИ", "font": "mono", "size": 23, "color": "ng_gold", "xy": [0.08, 0.572], "anchor": "lt"},
+        {"type": "text", "text": "Видео и цель кампании. 4,2% переходов против 2,58% на нашей кампании, а клик вдвое дешевле — это самое сильное, что у нас сейчас есть.", "font": "sans", "size": 28, "color": "ng_taupe", "xy": [0.08, 0.604], "anchor": "lt", "max_w": 0.84, "leading": 1.32},
+
+        {"type": "rect", "rect": [0.08, 0.740, 0.84, 0.115], "fill": "ng_cream", "radius": 10},
+        {"type": "text", "text": "ЧТО ДАЛЬШЕ", "font": "mono", "size": 21, "color": "ng_gold", "xy": [0.115, 0.765], "anchor": "lt"},
+        {"type": "text", "text": "Осталось 4 дня и около $20. Ждём первые заявки в ближайшие сутки-двое.", "font": "sans", "size": 30, "color": "ng_espresso", "xy": [0.115, 0.797], "anchor": "lt", "max_w": 0.77, "leading": 1.32},
+
+        {"type": "text", "text": "3 / 3", "font": "mono", "size": 22, "color": "ng_taupe", "xy": [0.92, 0.930], "anchor": "rt"}
+      ]
+    }
+  ]
+}

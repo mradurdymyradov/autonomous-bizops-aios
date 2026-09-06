@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zark"
+  short_description: "Generate media through the Zark API"
+  default_prompt: "Use $zark for this image or video request."
+policy:
+  allow_implicit_invocation: false

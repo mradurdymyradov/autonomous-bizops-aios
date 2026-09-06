@@ -1,0 +1,264 @@
+{
+  "generated_utc": "2026-08-03T11:27:51.189257+00:00",
+  "window_days": 7,
+  "profile": {
+    "username": "voronka.tm",
+    "name": "Онлайн продажи • Воронка • Туркменистан",
+    "biography": "Настраиваем онлайн-продажи в ТМ.\nТаргет + Сайт + Тг бот + CRM.\nСтатистика воронки: где теряете клиентов и как поднять продажи.\nБесплатный аудит 👇",
+    "website": "https://voronkatm.com",
+    "followers_count": 53,
+    "follows_count": 49,
+    "media_count": 3,
+    "ig_id": 80243857780,
+    "is_published": true,
+    "id": "17841480213410482"
+  },
+  "totals": {
+    "views": {
+      "value": 71
+    },
+    "reach": {
+      "value": 18
+    },
+    "profile_views": {
+      "value": 9
+    },
+    "accounts_engaged": {
+      "value": 1
+    },
+    "total_interactions": {
+      "value": 3
+    },
+    "likes": {
+      "value": 3
+    },
+    "comments": {
+      "value": 0
+    },
+    "saves": {
+      "value": 0
+    },
+    "shares": {
+      "value": 0
+    },
+    "replies": {
+      "value": 0
+    },
+    "follows_and_unfollows": {
+      "error": "empty -- too little volume"
+    },
+    "profile_links_taps": {
+      "value": 0
+    },
+    "website_clicks": {
+      "value": 2
+    }
+  },
+  "breakdowns": {
+    "views/media_product_type": {
+      "POST": 18,
+      "CAROUSEL_CONTAINER": 11,
+      "STORY": 42
+    },
+    "reach/media_product_type": {
+      "CAROUSEL_CONTAINER": 5,
+      "STORY": 4,
+      "AD": 8,
+      "POST": 7
+    },
+    "total_interactions/media_product_type": {
+      "POST": 3
+    },
+    "views/follow_type": {
+      "FOLLOWER": 54,
+      "NON_FOLLOWER": 17
+    },
+    "reach/follow_type": {
+      "NON_FOLLOWER": 10,
+      "FOLLOWER": 8
+    },
+    "profile_links_taps/contact_button_type": {
+      "error": "empty"
+    }
+  },
+  "daily": {
+    "reach": [
+      {
+        "value": 9,
+        "end_time": "2026-07-28T07:00:00+0000"
+      },
+      {
+        "value": 1,
+        "end_time": "2026-07-29T07:00:00+0000"
+      },
+      {
+        "value": 1,
+        "end_time": "2026-07-30T07:00:00+0000"
+      },
+      {
+        "value": 1,
+        "end_time": "2026-07-31T07:00:00+0000"
+      },
+      {
+        "value": 2,
+        "end_time": "2026-08-01T07:00:00+0000"
+      },
+      {
+        "value": 5,
+        "end_time": "2026-08-02T07:00:00+0000"
+      },
+      {
+        "value": 0,
+        "end_time": "2026-08-03T07:00:00+0000"
+      }
+    ],
+    "follower_count": []
+  },
+  "posts": [
+    {
+      "id": "17898538605480915",
+      "caption": "Обычно реклама выглядит так: заплатили — и надеетесь, что сработает.\n\nУ нас по-другому. Каждая заявка записана в CRM-таблицу: откуда пришёл человек, что его заинтересовало и во сколько обошлась его заявка. Вы открываете таблицу и видите всю картину.\n\nРеклама перестаёт быть лотереей — становится понятным инструментом: что работает, то усиливаем, что не работает — выключаем.\n\nХотите увидеть эти цифры по своему бизнесу? Бесплатный аудит — ссылка в шапке профиля.\n\n#туркменистан #ашхабад #бизнес #аналитика #маркетинг",
+      "media_type": "IMAGE",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DbDl9jpjdmx/",
+      "timestamp": "2026-07-21T13:12:56+0000",
+      "like_count": 7,
+      "comments_count": 0,
+      "is_comment_enabled": true,
+      "shortcode": "DbDl9jpjdmx",
+      "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/753471245_17864740296673781_1265498617049070929_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2DNyypPV28YQ7kNvwEs7Hx4&_nc_oc=AdoQaqt6UOym5WGsvnoCZ5oklD6bd1Y_d9gVWiYJFK8idwGoF_rFzw1mYgbxaZj_Lek&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQGdEIzKZ5yjLtWPuSsBqiFzL66lj-agk0olyQlv1gdEpg&oe=6A763838",
+      "boost_eligibility_info": {
+        "eligible_to_boost": true
+      },
+      "insights": {
+        "views": 135,
+        "reach": 74,
+        "total_interactions": 8,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "profile_visits": 2,
+        "follows": 0,
+        "profile_activity": 0
+      }
+    },
+    {
+      "id": "18225743437320236",
+      "caption": "Знакомо?\n\nПрофиль ведёте, посты выходят — а новых клиентов нет. Реклама была — бюджет ушёл, результата нет. Кто-то написал в Direct — и потерялся среди сообщений.\n\nПроблема не в вас и не в Instagram. Просто лайки не превращаются в продажи сами по себе. Это делает система: реклама → сайт с заявкой → Telegram-бот → CRM.\n\nМы разберём ваш профиль и покажем, где именно теряются клиенты. Бесплатно, за 10 минут.\n\nСсылка на бесплатный аудит — в шапке профиля.\n\n#туркменистан #ашхабад #бизнес #реклама #продажи",
+      "media_type": "IMAGE",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DbDlgUpDdJM/",
+      "timestamp": "2026-07-21T13:07:52+0000",
+      "like_count": 9,
+      "comments_count": 3,
+      "is_comment_enabled": true,
+      "shortcode": "DbDlgUpDdJM",
+      "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/753206209_17864738988673781_818183524629903444_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=f1HvnE5I_HIQ7kNvwFS50Ka&_nc_oc=AdqeUngonPrW12NY9yl30ogvvns94TtWcfOPlJNUh-cEEa1O5ejN2xmF5u3IvW8qMbo&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQFN-CoCIbrs4KIpHWVdW5UUQR-FnI5SD5xQgJwyEPe5ng&oe=6A7641A9",
+      "boost_eligibility_info": {
+        "eligible_to_boost": true
+      },
+      "insights": {
+        "views": 183,
+        "reach": 95,
+        "total_interactions": 13,
+        "likes": 9,
+        "comments": 3,
+        "saved": 0,
+        "shares": 0,
+        "profile_visits": 3,
+        "follows": 0,
+        "profile_activity": 1
+      },
+      "comments": [
+        {
+          "id": "18100287521590007",
+          "text": "Как участвовать?",
+          "username": "gunchina_tm",
+          "timestamp": "2026-07-26T04:52:18+0000",
+          "like_count": 1
+        },
+        {
+          "id": "17891551071595420",
+          "text": "Как участвовать?",
+          "username": "gunchina_tm",
+          "timestamp": "2026-07-26T04:28:00+0000",
+          "like_count": 1
+        }
+      ]
+    },
+    {
+      "id": "18370366378237735",
+      "caption": "Заявки из Instagram приносит не красивый профиль, а система.\n\nВот как она устроена:\n\n1. Таргетированная реклама — показываем вас тем, кому это интересно\n2. Сайт с заявкой — клиент оставляет номер за 10 секунд\n3. Telegram-бот — заявка сразу у вас в телефоне\n4. CRM и аналитика — видно, откуда пришёл каждый клиент и сколько стоила заявка\n\nЧетыре части работают вместе — и заявки приходят каждый день, без вашего участия.\n\nХотите посмотреть, как это будет работать в вашем бизнесе? Бесплатный аудит — ссылка в шапке профиля.\n\n#туркменистан #ашхабад #бизнес #реклама #маркетинг",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DbDlQfLjYO-/",
+      "timestamp": "2026-07-21T13:06:47+0000",
+      "like_count": 7,
+      "comments_count": 0,
+      "is_comment_enabled": true,
+      "shortcode": "DbDlQfLjYO-",
+      "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/754143183_17864737419673781_5056085673001058600_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=R92Yv11GmK4Q7kNvwEnm5U0&_nc_oc=AdqjI4Tb4NCUGjug9WMv2Os_oYzaUUGwDY4a82AU0QXgXukvRNMWXDYPNsuk25GbMsI&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQHYUGtNEReDkuG6x4rCMTgaum_ImuBwXQpo-dyo1_DGBg&oe=6A763FAA",
+      "boost_eligibility_info": {
+        "eligible_to_boost": true
+      },
+      "children": {
+        "data": [
+          {
+            "id": "17875502700620827",
+            "media_type": "IMAGE",
+            "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/754143183_17864737419673781_5056085673001058600_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=R92Yv11GmK4Q7kNvwEnm5U0&_nc_oc=AdqjI4Tb4NCUGjug9WMv2Os_oYzaUUGwDY4a82AU0QXgXukvRNMWXDYPNsuk25GbMsI&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQHYUGtNEReDkuG6x4rCMTgaum_ImuBwXQpo-dyo1_DGBg&oe=6A763FAA"
+          },
+          {
+            "id": "18116002984706488",
+            "media_type": "IMAGE",
+            "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/753583124_17864737680673781_2084184391324310551_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=D1KnqGsabQMQ7kNvwGczzUu&_nc_oc=AdrDX3ydLqClK63277f1wFDDt6kIPolwjPya5DFXMWIJAQRvQZXyp8FS2axt69OJzlk&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQHVLDQ_uTHiIYGAwe8a9vgqNKr_U9zB-zp1wusGwjvCBQ&oe=6A76472B"
+          },
+          {
+            "id": "18323785648278684",
+            "media_type": "IMAGE",
+            "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/753125230_17864737743673781_4108777854803597401_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=y4gZVScHu7cQ7kNvwEFV8xF&_nc_oc=AdqgCYUdmS_j_3Jri12TeYrGXAUvHBSNuBvzg9lh0esk-e6JKlYgADMxpnKvBglnQP4&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQGLLsUDUwm7_KQkJ0LCt9WyGNvsPYrTR4IAWDLUlEBkwg&oe=6A766498"
+          },
+          {
+            "id": "18088025192633570",
+            "media_type": "IMAGE",
+            "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/752782106_17864737854673781_3315180842634404775_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aU3w8VXXKGkQ7kNvwEPlflQ&_nc_oc=AdogrRd7IDl4rcmvnPNrndF4tccnoV3Z9MhCQfycP4eU1ILBevp0mG3T04v5BHgupsQ&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQEMzXCfM8fBlJS_wVls7RG1duXi85KE0rJf5yl4FSBgBg&oe=6A7641C5"
+          },
+          {
+            "id": "18434429902192718",
+            "media_type": "IMAGE",
+            "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/753488088_17864738217673781_5450294545712687294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=l_Gs1IOVf6oQ7kNvwET6u2B&_nc_oc=AdqUng9ofemDPz1QjP_yKUR_FxZs4N2aK9qLRVtMyHm60lsyijXsD75z05Yi5LtGYig&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQG93-33XlT1eJuKTUKr8qHuDQT6QVNezeNb0Fvh8JwcLg&oe=6A766664"
+          },
+          {
+            "id": "18092559722632372",
+            "media_type": "IMAGE",
+            "media_url": "https://scontent-hel3-1.cdninstagram.com/v/t51.82787-15/753197024_17864738283673781_4636056692043207913_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=oE4wtMi7KeQQ7kNvwHOI8PI&_nc_oc=AdqJTxpt9rWZVG-AgTHcgEIyFY6VSA-AVn0q4RlJ9OM7ymz4gVpeh2AFwTH-dyvGTzY&_nc_zt=23&_nc_ht=scontent-hel3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=91uqIBmUEtWDVhrHl3-jAQ&oh=00_AQH_MJM0B18DpxLKAIQUdQZyRJKnb08-wAcn6LPU8rmifg&oe=6A7644E8"
+          }
+        ]
+      },
+      "insights": {
+        "views": 177,
+        "reach": 85,
+        "total_interactions": 9,
+        "likes": 7,
+        "comments": 0,
+        "saved": 0,
+        "shares": 1,
+        "profile_visits": 0,
+        "follows": 0,
+        "profile_activity": 0
+      }
+    }
+  ],
+  "posts_error": null,
+  "stories": [],
+  "quota": {
+    "config": {
+      "quota_total": 100,
+      "quota_duration": 86400
+    },
+    "quota_usage": 0
+  },
+  "demographics": null,
+  "competitors": {}
+}

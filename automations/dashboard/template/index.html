@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en" data-density="comfortable">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#0B0C0F">
+<title>Today · VAIOS</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230B0C0F'/%3E%3Crect x='7' y='16' width='4' height='9' rx='1.4' fill='%236371E0'/%3E%3Crect x='14' y='11' width='4' height='14' rx='1.4' fill='%238A919E'/%3E%3Crect x='21' y='7' width='4' height='18' rx='1.4' fill='%239BCF3F'/%3E%3C/svg%3E">
+<style>/*{{FONTS}}*/</style>
+<style>/*{{CSS}}*/</style>
+</head>
+<body>
+
+<a class="skip" href="#view">Skip to content</a>
+
+<div id="app">
+  <aside id="rail" aria-label="Sections">
+    <div class="rail-top">
+      <a class="brand" href="#/today">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand-txt"><b>VAIOS</b><em>voronka.tm</em></span>
+      </a>
+      <button id="rail-toggle" class="icon-btn" title="Collapse sidebar" aria-label="Collapse sidebar">
+        <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><rect x="2.5" y="3" width="11" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="1.2"/><path d="M6.5 3v10" stroke="currentColor" stroke-width="1.2"/></svg>
+      </button>
+    </div>
+
+    <button id="open-cmdk" class="railsearch" aria-label="Search everything">
+      <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+      <span>Search…</span><kbd>⌘K</kbd>
+    </button>
+
+    <nav id="nav" aria-label="Primary"></nav>
+
+    <div class="rail-foot"><div id="freshness"></div></div>
+  </aside>
+
+  <div id="main">
+    <header id="topbar">
+      <button id="rail-open" class="icon-btn only-narrow" aria-label="Open menu">
+        <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M2 4h12M2 8h12M2 12h12" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+      </button>
+      <div class="crumb"><h1 id="page-title">Today</h1><p id="page-sub"></p></div>
+      <div class="topbar-right">
+        <div id="tabs" role="tablist"></div>
+        <button id="open-cmdk-2" class="icon-btn only-narrow" aria-label="Search">
+          <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+    </header>
+    <main id="view" tabindex="-1"></main>
+  </div>
+</div>
+
+<div id="scrim" hidden></div>
+
+<aside id="drawer" aria-label="Record detail" hidden>
+  <header>
+    <div id="drawer-title"></div>
+    <button id="drawer-close" class="icon-btn" aria-label="Close">
+      <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+    </button>
+  </header>
+  <div id="drawer-body"></div>
+</aside>
+
+<dialog id="cmdk" aria-label="Command palette">
+  <div class="cmdk-in">
+    <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M10.5 10.5L14 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+    <input id="cmdk-q" autofocus autocomplete="off" spellcheck="false" placeholder="Jump to a client, a lead, a screen…" role="combobox" aria-expanded="true" aria-controls="cmdk-list">
+    <kbd>esc</kbd>
+  </div>
+  <ul id="cmdk-list" role="listbox"></ul>
+  <footer class="cmdk-foot"><span><kbd>↑</kbd><kbd>↓</kbd> move</span><span><kbd>↵</kbd> open</span><span><kbd>?</kbd> shortcuts</span></footer>
+</dialog>
+
+<dialog id="keys" aria-label="Keyboard shortcuts">
+  <h2>Keyboard</h2>
+  <div id="keys-body"></div>
+  <footer class="cmdk-foot"><span>press <kbd>esc</kbd> to close</span></footer>
+</dialog>
+
+<noscript><p style="padding:3rem;font:16px/1.6 system-ui,sans-serif;color:#C9CFD9;max-width:38rem">
+This page renders its data with JavaScript. Enable it, or read the same numbers with
+<code>python automations/funnel.py</code>.</p></noscript>
+
+<script>const DATA="{{DATA}}";</script>
+<script>/*{{JS}}*/</script>
+</body>
+</html>

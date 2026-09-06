@@ -1,0 +1,3 @@
+{
+  "_": "Pins a note number from «leads log/leadslog.md.txt» to a Lead ID, for when the positional match in notes.py is wrong. Keys starting with _ are ignored. Example: \"L5\": \"L1784875363313\". Only add one after checking the phone and business with: python notes.py --check"
+}
