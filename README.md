@@ -10,6 +10,9 @@
 [![HeyGen](https://img.shields.io/badge/HeyGen-Video_AI-6C5CE7)](https://heygen.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+> [!NOTE]
+> **Sample Telemetry & Data Fixtures:** The metrics, MRR records, funnel conversion rates, and client identifiers contained in `STATE.md` and telemetry logs are **illustrative synthetic demonstration fixtures** representing schema definitions and state transitions for testing autonomous auditing agents.
+
 ---
 
 ## System Architecture

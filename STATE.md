@@ -2,6 +2,9 @@
 
 > This file is the single source-of-truth for the AI Operating System's current operational reality: live funnel numbers, telemetry health, active pipelines, and open loops.
 
+> [!NOTE]
+> **Notice:** The metrics, funnel numbers, MRR ($1,500), and client accounts below are **synthetic sample fixtures** used for validating automated audit skills and state transitions.
+
 ---
 
 ## 1. Executive Snapshot
